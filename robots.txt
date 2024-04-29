@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kelvin.nyadzayo.com/sitemap-index.xml
+Host: https://kelvin.nyadzayo.com
